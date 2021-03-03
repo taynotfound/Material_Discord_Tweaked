@@ -142,10 +142,10 @@ body,
     width: auto;
     height: 22px; }
   .wordmark-2iDDfm.wordmarkWindows-1v0lYD:before {
-    content: "Material";
+    content: "Discord";
     font-weight: 700; }
   .wordmark-2iDDfm.wordmarkWindows-1v0lYD:after {
-    content: "Discord"; }
+    content: "Material Tweaked"; }
   .wordmark-2iDDfm.wordmarkWindows-1v0lYD svg {
     display: none; }
 
@@ -429,7 +429,8 @@ body,
 /* SERVER LIST -> SERVER -> FOLDER */
 .folder-21wGz3,
 .folderIconWrapper-226oVY {
-  border-radius: 50%; }
+  border-radius: 50%;
+transition: 300ms ease width;}
 
 /*
  *
